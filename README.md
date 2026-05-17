@@ -16,7 +16,7 @@
         WIN   RATE   INTELLIGENCE
 ```
 
-**Built on Antigravity · SQL Analytics Portfolio Project**
+**SQL Analytics Portfolio Project**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)

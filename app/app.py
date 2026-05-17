@@ -52,7 +52,7 @@ logging.basicConfig(level=logging.INFO)
 
 # ─── Page Configuration ────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Pokémon Battler — Antigravity",
+    page_title="Pokémon Battler",
     page_icon="⚔️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -219,7 +219,7 @@ with st.sidebar:
     st.markdown(
         '<div style="text-align:center;margin-top:2rem;">'
         '<span style="font-family:VT323;color:#555;font-size:0.9rem;">'
-        'Built on Antigravity · 2026</span></div>',
+        '2026</span></div>',
         unsafe_allow_html=True,
     )
 
