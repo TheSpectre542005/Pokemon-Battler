@@ -16,7 +16,7 @@
         WIN   RATE   INTELLIGENCE
 ```
 
-**SQL Analytics Portfolio Project**
+**SQL Analytics Project**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
@@ -167,5 +167,3 @@ pokemon-battler/
 | Dashboard | Streamlit | Web-based UI layer |
 
 ---
-
-*Built with precision by a data scientist who understands that the most important metric is never the obvious one.*
